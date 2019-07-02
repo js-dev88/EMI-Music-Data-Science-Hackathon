@@ -8,18 +8,18 @@ Machine Learning Project
 
 librairies utilisées : 
 
-Keras                             2.2.4
-Keras-Applications                1.0.7
-Keras-Preprocessing               1.0.9
-tensorboard                       1.13.1
-tensorflow                        1.13.1
-tensorflow-estimator              1.13.0
-xgboost                           0.90
-feather-format                    0.4.0
-ipython                           7.3.0
-category-encoders                 2.0.0
-sklearn                           0.0
-numpy                             1.15.4
-matplotlib                        3.0.3
-seaborn                           0.9.0
-pandas                            0.24.2
+* Keras                             2.2.4
+* Keras-Applications                1.0.7
+* Keras-Preprocessing               1.0.9
+* tensorboard                       1.13.1
+* tensorflow                        1.13.1
+* tensorflow-estimator              1.13.0
+* xgboost                           0.90
+* feather-format                    0.4.0
+* ipython                           7.3.0
+* category-encoders                 2.0.0
+* sklearn                           0.0
+* numpy                             1.15.4
+* matplotlib                        3.0.3
+* seaborn                           0.9.0
+* pandas                            0.24.2
