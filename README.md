@@ -23,3 +23,4 @@ librairies utilisées :
 * matplotlib                        3.0.3
 * seaborn                           0.9.0
 * pandas                            0.24.2
+* graphviz
